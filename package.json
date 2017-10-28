@@ -1,0 +1,19 @@
+{
+  "name": "hexo-theme-darko",
+  "version": "1.0.1",
+  "description": "Material Design theme for Hexo.",
+  "keywords": [
+    "hexo",
+    "theme",
+    "material design"
+  ],
+  "author": {
+    "name": "jianyuan",
+    "email": "jianyuan@databus.cc"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/jianyuanzh/hexo-theme-darko.git",
+    "type": "git"
+  }
+}
